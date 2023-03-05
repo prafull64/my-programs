@@ -9,8 +9,8 @@ class Zn{
         System.out.println("enter number");
         int n= sc.nextInt();
 
-        int a;
-        a = new int[n];
+        int a[];
+        a[i] = new int[n];
 
         System.out.println("enter numbers");
 
